@@ -22,6 +22,13 @@ zlib.download 最初由 zhelper 小组开发，作为 zhelper V4 的下载组件
 3. 然后，请访问 [替换成可用的服务器域名]/download/[替换成上一步的数字]/[替换成上一步的字符串] 即可
 4. 如果需要使用自己的额度，请使用 [替换成可用的服务器域名]/download/[替换成上一步的数字]/[替换成上一步的字符串]/[替换成remix_userid]/[替换成remix_userkey]
 
+## 公共接口与致谢
+
+test1.zlib.download 测试接口，感谢 zhelper 小组提供测试接口。
+
+zlibdown.ga 感谢 Royce rii 提供此接口。
+
+
 ## 部署说明
 
 一方面考虑到 zlibrary 接口存在被恶意利用的可能性，另一方面考虑到 zlibrary 服务器本身的负担，我们决定暂时不对代码核心部分进行开源。但是，您仍然可以通过提交 issue 或者 discussion 的方式向我们申请部署。我们将会考察您的 Github 基本信息，以确保您不会将本项目用于某些恶意用途。
@@ -38,9 +45,3 @@ zlib.download 最初由 zhelper 小组开发，作为 zhelper V4 的下载组件
 我已知晓潜在的风险：（必须回答是）
 我承诺不传播本项目源码：（必须回答是）
 ```
-
-## 公共接口与致谢
-
-test1.zlib.download 测试接口，感谢 zhelper 小组提供测试接口。
-zlibdown.ga 感谢 Royce rii 提供此接口。
-
