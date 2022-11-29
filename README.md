@@ -12,7 +12,12 @@ zlib.download 最初由 zhelper 小组开发，作为 zhelper V4 的下载组件
 
 ## 使用说明
 
-1. 从搜索网页获取所需要下载书籍的信息，例如，从 TOR 官网获取：http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/book/11651373/1132ee；从 zhelper 获取 https://download.v4.zhelper.net/download/3511909/db1f53，从 clibrary 获取：https://clibrary.top/book/3511911/f37da4
+1. 从搜索网页获取所需要下载书籍的信息
+```
+从 TOR 官网获取：http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/book/11651373/1132ee
+从 zhelper 获取 https://download.v4.zhelper.net/download/3511909/db1f53
+从 clibrary 获取：https://clibrary.top/book/3511911/f37da4
+```
 2. 注意其中共同的特点：最后以 数字/字符串 的形式结尾。如 3511909/db1f53 或者 3511911/f37da4
 3. 然后，请访问 [替换成可用的服务器域名]/download/[替换成上一步的数字]/[替换成上一步的字符串] 即可
 4. 如果需要使用自己的额度，请使用 [替换成可用的服务器域名]/download/[替换成上一步的数字]/[替换成上一步的字符串]/[替换成remix_userid]/[替换成remix_userkey]
