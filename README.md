@@ -15,7 +15,7 @@ zlib.download 最初由 zhelper 小组开发，作为 zhelper V4 的下载组件
 1. 从搜索网页获取所需要下载书籍的信息
 ```
 从 TOR 官网获取：搜索完成后，在详情界面，复制链接如 http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/book/11651373/1132ee
-从 zhelper 获取：搜索完成后，在下载界面，复制链接如 https://download.v4.zhelper.net/download/3511909/db1f53
+从 zhelper V4 获取：搜索完成后，在下载界面，复制链接如 https://download.v4.zhelper.net/download/3511909/db1f53
 从 clibrary 获取：搜索完成后，在详情界面，复制链接如 https://clibrary.top/book/3511911/f37da4
 ```
 2. 注意其中共同的特点：最后以 数字/字符串 的形式结尾。如 3511909/db1f53 或者 3511911/f37da4
