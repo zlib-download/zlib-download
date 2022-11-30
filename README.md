@@ -28,6 +28,8 @@ test1.zlib.download 测试接口，感谢 zhelper 小组提供测试接口。
 
 zlibdown.ga 感谢 Royce rii 提供此接口。
 
+zlib.c4.pub 感谢 fun Chen 提供此接口。
+
 
 ## 部署说明
 
