@@ -64,7 +64,10 @@
         <!-- <br> -->
     </template>
     <script>
+        var pub = document.getElementById('public');
+        var per = document.getElementById('personal')
         var download_path = window.location.pathname
+        let t = document.querySelector('#productrow');
         var servers = ['https://test1.zlib.download','https://zlibdown.ga']
         for (let i = 0; i < servers.length; i++) {
             axios.get(servers[i] + '/status').then(function (res) {
