@@ -64,7 +64,7 @@
         <!-- <br> -->
     </template>
     <script>
-
+        var download_path = window.location.pathname
         var servers = ['https://test1.zlib.download','https://zlibdown.ga']
         for (let i = 0; i < servers.length; i++) {
             axios.get(servers[i] + '/status').then(function (res) {
