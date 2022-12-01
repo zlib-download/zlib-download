@@ -12,6 +12,15 @@ zlib.download 最初由 zhelper 小组开发，作为 zhelper V4 的下载组件
 
 ## 使用说明
 
+### 方法1
+
+由于本项目从 zhelper 迁移得来，最方便的方式是直接在 zhelper 下载界面上修改域名。
+
+首先仍然是使用 [zhelper V4](https://v4.zhelper.net/) 进行查询，在下载界面，将 `download.v4.zhelper.net` 替换成 `zlib.download` 即可切换到 `zlib.download` 网站，直接选择公共服务器即可下载。此外，界面也沿袭原设计。力图还原当初的体验。
+
+
+### 方法2
+
 1. 从搜索网页获取所需要下载书籍的信息
 ```
 从 TOR 官网获取：搜索完成后，在详情界面，复制链接如 http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/book/11651373/1132ee
