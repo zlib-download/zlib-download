@@ -18,6 +18,19 @@ zlib.download 最初由 zhelper 小组开发，作为 zhelper V4 的下载组件
 
 首先仍然是使用 [zhelper V4](https://v4.zhelper.net/) 进行查询，在下载界面，将 `download.v4.zhelper.net` 替换成 `zlib.download` 即可切换到 `zlib.download` 网站，直接选择公共服务器即可下载。此外，界面也沿袭原设计。力图还原当初的体验。
 
+#### 详细图文
+
+打开 [zhelper V4](https://v4.zhelper.net/)
+
+![](./uTools_1669953816935.png)
+
+![](./uTools_1669953850711.png)
+
+![](./uTools_1669953897125.png)
+
+![](./uTools_1669953950828.png)
+
+![](./uTools_1669954071335.png) 
 
 ### 方法2
 
