@@ -48,11 +48,11 @@ zlib.download 最初由 zhelper 小组开发，作为 zhelper V4 的下载组件
 
 ## 公共接口与致谢
 
-test1.zlib.download 测试接口，感谢 zhelper 小组提供测试接口。
+test1/test2.zlib.download 测试接口，感谢 zhelper 小组提供测试接口。
 
-zlibdown.ga 感谢 Royce rii 提供此接口。
+<!-- zlibdown.ga 感谢 Royce rii 提供此接口。 -->
 
-zlib.c4.pub 感谢 fun Chen 提供此接口。
+zlib.jg12123.one 感谢 fun Chen 提供此接口。
 
 
 ## 部署说明
