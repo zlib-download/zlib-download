@@ -66,7 +66,7 @@
     <script>
         var pub = document.getElementById('public');
         var per = document.getElementById('personal')
-        var download_path = window.location.pathname
+        var download_path = window.location.pathname.replace('/en/','/')
         let t = document.querySelector('#productrow');
         var servers = ['https://test1.zlib.download','https://test2.zlib.download','https://zlib.jg12123.one']
         for (let i = 0; i < servers.length; i++) {
