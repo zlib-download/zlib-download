@@ -74,7 +74,7 @@
                 let server = servers[i]
                 let t = document.querySelector('#productrow');
                 a = t.content.querySelectorAll("a");
-                a[0].setAttribute('href', server + download_path);
+                a[0].setAttribute('href', server + download_path+'/');
                 //a[0].setAttribute('target','_blank');
                 a[0].textContent = server.split('//')[1].split('.')[0]
                 let clone = document.importNode(t.content, true);
