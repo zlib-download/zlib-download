@@ -1,3 +1,5 @@
+# 此项目不再维护，请使用替代 zlib.app
+
 # zlib.download Project
 
 zlib.download 是一个代理访问 zlibrary API 的工具。能够提供与原 zlibrary 网站基本一致的下载体验。
